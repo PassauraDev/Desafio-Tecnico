@@ -27,6 +27,7 @@ O banco de dados pode ser **MySQL** ou **SQLite**.
 
 - O projeto **deve estar no GitHub**
 - Envie apenas o link do repositório
+- O projeto não pode fazer fork com outros projetos
 
 ---
 
