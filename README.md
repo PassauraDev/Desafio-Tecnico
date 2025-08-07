@@ -9,7 +9,7 @@ Este é um desafio simples, com o objetivo de avaliar seus conhecimentos e habil
 Seu desafio é criar um pequeno sistema **CRUD (Criar, Ler, Atualizar e Deletar)** de produtos com uma interface web simples.  
 Você pode usar HTML/CSS puro ou um framework como **Bootstrap** ou **TailwindCSS** (opcional).
 
-O back-end deve ser desenvolvido em **Python**, utilizando **Flask** (ou outro framework de sua preferência).  
+O back-end deve ser desenvolvido em **Python**, utilizando um framework de sua preferência.  
 O banco de dados pode ser **MySQL** ou **SQLite**.
 
 > *Não existe uma forma certa ou errada de resolver este desafio!*  
@@ -81,6 +81,6 @@ crud_produtos/
 │
 ├── README.md # Descrição do projeto e instruções
 │
-└── requirements.txt # Bibliotecas necessárias (ex: Flask)
+└── requirements.txt # Bibliotecas necessárias 
 
 Boa sorte! 🍀
