@@ -73,25 +73,14 @@ Cada produto deve conter os seguintes campos:
 ## Estrutura Sugerida do Projeto
 
 crud_produtos/
-
 │
-
-├── app/ # Código principal da aplicação (rotas, banco, lógica)
-
+├── app/ # Código principal da aplicação (rotas, conexão banco de dados, static etc.)
 │
-
 ├── templates/ # Arquivos HTML (login, dashboard, formulários)
-
 │
-
-├── static/ # Arquivos estáticos (CSS, JS, imagens)
-
 │
-
 ├── README.md # Descrição do projeto e instruções
-
 │
-
 └── requirements.txt # Bibliotecas necessárias 
 
 
